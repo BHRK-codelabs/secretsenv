@@ -1,4 +1,4 @@
-# $ModuleName release export
+# secretsenv release export
 
 This directory was generated from the incubation workspace.
 
